@@ -1,0 +1,74 @@
+[
+      {
+            "id": 1,
+            "name": "ted James",
+            "city": " Phoenix ",
+            "orderTotal": 40.99
+      },
+      {
+            "id": 2,
+            "name": "Michelle Thompson",
+            "city": "Los Angeles ",
+            "orderTotal": 89.99
+      },
+      {
+            "id": 3,
+            "name": "James Thomas",
+            "city": " Las Vegas ",
+            "orderTotal": 29.99
+      },
+      {
+            "id": 4,
+            "name": "Tina Adams",
+            "city": "Seattle",
+            "orderTotal": 15.99
+      },
+      {
+            "id": 5,
+            "name": "Joe Smith",
+            "city": "Philadelphia ",
+            "orderTotal": 37.50
+      },
+      {
+            "id": 6,
+            "name": "mike Jones",
+            "city": "Chicago ",
+            "orderTotal": 123.99
+      },
+      {
+            "id": 7,
+            "name": "emily Vargas",
+            "city": "Bellmawr ",
+            "orderTotal": 29.99
+      },
+      {
+            "id": 8,
+            "name": "dave Miller",
+            "city": "Dallas ",
+            "orderTotal": 177.99
+      },
+      {
+            "id": 9,
+            "name": "james Dean",
+            "city": "Boulder ",
+            "orderTotal": 45.22
+      },
+      {
+            "id": 10,
+            "name": "Brian Connolly",
+            "city": "San Fransisco ",
+            "orderTotal": 22.99
+      },
+      {
+            "id": 11,
+            "name": "James Roach",
+            "city": "Springfield ",
+            "orderTotal": 55.00
+      },
+      {
+            "id": 12,
+            "name": "Leigh Kocur",
+            "city": "Brooklyn",
+            "orderTotal": 68.10
+      }
+]
